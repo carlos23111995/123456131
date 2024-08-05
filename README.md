@@ -45,20 +45,18 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8?h
 http://201.159.113.219:49000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZ27SR1/tvo.jpg",TVO CANAL 23
 http://201.159.113.219:49000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBQ9qrXh/cartoonito.jpg",CARTOONITO
-http://1play.cool:25461/3233843478/f80a537d46ec/29798
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/254tDNS5/cartoon-network.jpg",*CARTOON NETWORK*
+http://novared.pro:80/play/SNE0WRNn5jtOsNedrkej85MBaGDZQ50FNv9YfmHh7PZn5lwafWbYmB5hzMEFWmKS/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L628Km4J/orbitatv.jpg",ORBITA TV
 http://fivetv.org:25461/fredy98/4576fre/186526
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXGYFvXF/canal-26.jpg",CANAL 26 SAN MIGUEL
 http://fivetv.org:25461/fredy98/4576fre/24192
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/254tDNS5/cartoon-network.jpg",*CARTOON NETWORK*
-http://1play.cool:25461/3233843478/f80a537d46ec/63862
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cTTLbj1/Disney-channel.jpg",*DISNEY CHANNEL
 http://201.159.113.219:49000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZPRqk9N/el-camino-tv.jpg",EL CAMINO TV
-https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvPtjJ0x/nickelodeon.jpg",*NICKELODEON
 http://home-playtv.com:8080/KONE/SVVVR/439807
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZPRqk9N/el-camino-tv.jpg",EL CAMINO TV
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/tV6MyWl.jpeg",NICK JR
 http://201.159.113.219:49000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52950cg0/wowtv.jpg",WOW
@@ -67,16 +65,14 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcL6Rt1/tv.jpg",TV GETSEMANI
 https://serversv.com:8080/hls/tvgetsemani.m3u8?checkedby:iptvcat.org
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FKgwQ4M/tcs.jpg",TCS+
-http://tecnozone.site:8090/MaValencia/MarioVal/17013
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k59cW67n/gsg-tv.jpg",GSG TV
-https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8?checkedby:iptvcat.org
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmfQVVXq/tvca.jpg",TVCA
-https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QX0gVDQ/tv-le-n-juda.jpg",TV LEON JUDA
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FKgwQ4M/tcs.jpg",TCS+
+http://tecnozone.site:8090/MaValencia/MarioVal/17013
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NCqGq04/extrema-tv.jpg",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmfQVVXq/tvca.jpg",TVCA
+https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrbYtvSk/rbol-de-vida.jpg",ARBOL DE VIDA TV
 https://www.yupi.live:1936/livearbol/livearbol/playlist.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnFZYGCH/tu-universo-channel.jpg",TU UNIVERSO TV
@@ -89,8 +85,6 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7RGmf6Y/as-es-mi-gente.jpg",ASI ES MI GENTE TV
 https://www.yupi.live:1936/tvmigente/tvmigente/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/SwR2BeH.jpeg",TNT NOVELAS
-http://201.159.113.219:49000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/nrm1Xy6.jpeg",*TNT SERIES
 http://201.159.113.219:49000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/BjU8Vvx.jpeg",*UNIVERSAL TV
@@ -107,12 +101,6 @@ http://live.budtvlight.com:25461/bud-1104940/6ba30c117f/158692
 http://newultra.xyz:8080/ivettemakarenabravotv/237pdda/238
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjSrZjXb/Sony-channel.jpg",*SONY CHANNEL
 http://201.159.113.219:49000/play/a03h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jgFR5pr/tnt.jpg",*TNT
-http://1play.cool:25461/3233843478/f80a537d46ec/29834
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJhfX05k/hbo.jpg",*HBO
-http://1play.cool:25461/3233843478/f80a537d46ec/47462
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tF7HxLS/canal-57.jpg",CANAL 57 APOPA
-https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Lk0gUxv.jpeg",*STUDIO UNIVERSAL
 http://201.159.113.219:49000/play/a049/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qM4D85Qf/cinecanal.jpg",*CINECANAL
@@ -123,3 +111,5 @@ http://home-playtv.com:8080/KONE/SVVVR/159153
 http://201.159.113.219:49000/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xrz1KZK/golden.jpg",*GOLDEN
 http://201.159.113.219:49000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tF7HxLS/canal-57.jpg",CANAL 57 APOPA
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
