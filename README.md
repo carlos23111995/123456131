@@ -10,7 +10,7 @@ http://201.159.113.219:49000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/HeqroZL.jpeg",TIGO SPORTS
 http://home-playtv.com:8080/KONE/SVVVR/149065
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qByb9Tg6/canal-6.jpg",*CANAL 6*
-http://live.budtvlight.com:25461/bud-1104940/6ba30c117f/158407
+http://live.budtvlight.com:25461/bud-1104940/6ba30c117f/158414
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6wY4SH2/cnn.jpg",*CNN
 http://201.159.113.219:49000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26M5vWny/mtv.jpg",*MTV
