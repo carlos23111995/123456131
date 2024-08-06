@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzP6fFjr/canal-claro.jpg",*CANAL CLARO
 http://home-playtv.com:8080/KONE/SVVVR/469051
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Xn5F11G/canal-2.jpg",CANAL 2
-http://cincotv.org:25461/AnitaG07/212121/186521
+http://premierchile.shop:8080/56997776927x/AsHRdF37VRbQ/63171
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc1FL4qS/canal-3.jpg",Canal 3
 https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1711932051.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghv4FB4S/canal-4.jpg",CANAL 4
